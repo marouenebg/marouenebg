@@ -43,10 +43,15 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-
 ---
 
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marouenebg&show_icons=true&count_private=true)
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marouenebg&layout=compact&langs_count=8)](https://github.com/marouenebg/github-readme-stats)
+
 [twitter]: https://twitter.com/BGmarwen
-[youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/marwenbg
 [linkedin]: https://www.linkedin.com/in/marwen-bougossa-8292a2161/
