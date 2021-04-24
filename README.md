@@ -1,17 +1,26 @@
-### Hi there 👋
+<h3> < Hello world, I'm <a href="https://annujolly.netlify/" target="_blank"> Annu Jolly</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img  align='right' src="https://user-images.githubusercontent.com/43414928/113603231-5101d200-9661-11eb-9dcf-93d0401a7287.png" width="300px"> </h3>
+I am a pre-final year CS student with a great passion for programming. I am trying to create magic with 0's and 1's. The green dots on my GitHub profile show my developer journey. I have experimented with AI, NLP, Blockchain etc but found my niche domain in full stack development 
 
-<!--
-**marouenebg/marouenebg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### A little more about me...  
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate more on open source application
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+```javascript
+const Annu = {
+  Pronouns: "He" | "him",
+  Description : [Passionate, Optimistic, 
+                Bibliophile, Tech enthusiast  
+                and a lot more ],
+  Education : 
+           [ 
+           { College: Sesame University, 
+             Year :2019 - till now  }, 
+           { College : Istic Borj Cedria,  
+              Year : 2016 - 2019 } 
+           ],
+ Experience : ['IT Consultant @ Sopra HR', 
+              'Intern at Sofrecom ', 
+             ]
+}
+```
 
 ### Connect with me:
 
@@ -19,6 +28,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 <br />
 
@@ -47,7 +57,7 @@ Here are some ideas to get you started:
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marouenebg&show_icons=true&count_private=true)
+![Marwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=marouenebg&show_icons=true&count_private=true)
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marouenebg&layout=compact&langs_count=8)](https://github.com/marouenebg/github-readme-stats)
